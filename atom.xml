@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Summmer&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-23T08:20:42.498Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Ziqing Peng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo搭建博客教程</title>
+    <link href="http://example.com/posts/2991444807/"/>
+    <id>http://example.com/posts/2991444807/</id>
+    <published>2022-05-13T13:03:11.000Z</published>
+    <updated>2022-05-23T08:20:42.498Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo简介&quot;&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="博客搭建" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/posts/2991444807/"/>
+    <id>http://example.com/posts/2991444807/</id>
+    <published>2022-05-13T13:03:11.000Z</published>
+    <updated>2022-05-24T03:43:26.065Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo简介&quot;&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="博客搭建" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
