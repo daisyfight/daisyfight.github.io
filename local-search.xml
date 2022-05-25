@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>Hexo搭建博客教程</title>
+    <title>test</title>
     <link href="/posts/2991444807/"/>
     <url>/posts/2991444807/</url>
     
-    <content type="html"><![CDATA[<h1 id="Hexo简介">1. Hexo简介</h1><p>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><h1 id="Hexo搭建步骤">2. Hexo搭建步骤</h1><h2 id="环境准备">2.1. 环境准备</h2><h3 id="安装Git">2.1.1. 安装Git</h3><p>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下<a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000">Git教程</a>。</p><p>代码测试：</p><figure class="highlight py"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre class=" language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string"><code class="language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello"</span>)<br></code></pre></div></td></tr></table></figure><p><img src="/.com//picture1.png"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="二级标题">2.2. 二级标题</h2><p>无序列表测试：</p><ul><li>哈哈</li><li>嘿嘿</li><li>吼吼</li></ul><h3 id="三级标题">2.2.1. 三级标题</h3><h4 id="四级标题">2.2.1.1. 四级标题</h4>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hexo简介">1. Hexo简介</h1><p>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><h1 id="Hexo搭建步骤">2. Hexo搭建步骤</h1><h2 id="环境准备">2.1. 环境准备</h2><h3 id="安装Git">2.1.1. 安装Git</h3><p>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下<a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000">Git教程</a>。</p><p>代码测试：</p><figure class="highlight py"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre class=" language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string"><code class="language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello"</span>)<br></code></pre></div></td></tr></table></figure><p><img src="/images/picture1.png"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="二级标题">2.2. 二级标题</h2><p>无序列表测试：</p><ul><li>哈哈</li><li>嘿嘿</li><li>吼吼</li></ul><h3 id="三级标题">2.2.1. 三级标题</h3><h4 id="四级标题">2.2.1.1. 四级标题</h4>]]></content>
     
     
     <categories>
@@ -31,11 +31,11 @@
   
   
   <entry>
-    <title>test</title>
+    <title>Hexo搭建博客教程</title>
     <link href="/posts/2991444807/"/>
     <url>/posts/2991444807/</url>
     
-    <content type="html"><![CDATA[<h1 id="Hexo简介">1. Hexo简介</h1><p>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><h1 id="Hexo搭建步骤">2. Hexo搭建步骤</h1><h2 id="环境准备">2.1. 环境准备</h2><h3 id="安装Git">2.1.1. 安装Git</h3><p>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下<a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000">Git教程</a>。</p><p>代码测试：</p><figure class="highlight py"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre class=" language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string"><code class="language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello"</span>)<br></code></pre></div></td></tr></table></figure><p><img src="/images/picture1.png"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="二级标题">2.2. 二级标题</h2><p>无序列表测试：</p><ul><li>哈哈</li><li>嘿嘿</li><li>吼吼</li></ul><h3 id="三级标题">2.2.1. 三级标题</h3><h4 id="四级标题">2.2.1.1. 四级标题</h4>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hexo简介">1. Hexo简介</h1><p>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><h1 id="Hexo搭建步骤">2. Hexo搭建步骤</h1><h2 id="环境准备">2.1. 环境准备</h2><h3 id="安装Git">2.1.1. 安装Git</h3><p>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下<a href="https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000">Git教程</a>。</p><p>代码测试：</p><figure class="highlight py"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre class=" language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string"><code class="language-hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello"</span>)<br></code></pre></div></td></tr></table></figure><p><img src="/.com//picture1.png"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="二级标题">2.2. 二级标题</h2><p>无序列表测试：</p><ul><li>哈哈</li><li>嘿嘿</li><li>吼吼</li></ul><h3 id="三级标题">2.2.1. 三级标题</h3><h4 id="四级标题">2.2.1.1. 四级标题</h4>]]></content>
     
     
     <categories>
